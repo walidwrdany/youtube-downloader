@@ -1,6 +1,5 @@
-Here's a comprehensive README.md for your GitHub repository:
 
-```markdown
+
 # 🎬 YouTube Downloader Script
 
 A powerful, user-friendly batch script for downloading videos and audio from YouTube using yt-dlp. Supports playlists, multiple quality options, subtitles, and more.
@@ -345,10 +344,6 @@ yt-dlp --cookies cookies.txt "URL"
 ```
 
 ---
-
 **Need help?** Run the script and select Option 5 for built-in help!
 
 **Found a bug?** Run with `--verbose` and copy the output when reporting issues.
-```
-
-This README is comprehensive, well-organized, and includes all the information users would need to effectively use your script. It covers installation, usage, troubleshooting, and even includes quick reference sections for power users.
